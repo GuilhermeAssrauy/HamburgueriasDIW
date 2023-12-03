@@ -51,47 +51,56 @@
         {
             "album": 0,
             "destaque": 0,
-            "descricao": "Cardápio"
+            "descricao": "Cardápio",
+            "capa": "assets/img/album0/thumbAlbum/t1.png"
         },
         {
             "album": 0,
             "destaque": 1,
-            "descricao": "Combos"
+            "descricao": "Combos",
+            "capa": "assets/img/album0/thumbAlbum/t2.png"
         },
         {
             "album": 0,
             "destaque": 2,
-            "descricao": "Acompanhamentos"
+            "descricao": "Acompanhamentos",
+            "capa": "assets/img/album0/thumbAlbum/t3.png"
         },
         {
             "album": 1,
             "destaque": 0,
-            "descricao": "Cardápio"
+            "descricao": "Cardápio",
+            "capa": "assets/img/album1/thumbAlbum/t1.png"
         },
         {
             "album": 1,
             "destaque": 1,
-            "descricao": "Combos"
+            "descricao": "Combos",
+            "capa": "assets/img/album1/thumbAlbum/t2.png"
         },
         {
             "album": 1,
             "destaque": 2,
-            "descricao": "Acompanhamentos"
+            "descricao": "Acompanhamentos",
+            "capa": "assets/img/album1/thumbAlbum/t3.png"
         },
         {
             "album": 2,
             "destaque": 0,
-            "descricao": "Cardápio"
+            "descricao": "Cardápio",
+            "capa": "assets/img/album2/thumbAlbum/t1.png"
         },
         {
             "album": 2,
             "destaque": 1,
-            "descricao": "Combos"
+            "descricao": "Combos",
+            "capa": "assets/img/album2/thumbAlbum/t2.png"
         },
         {
             "album": 2,
             "destaque": 2,
-            "descricao": "Acompanhamentos"
+            "descricao": "Acompanhamentos",
+            "capa": "assets/img/album2/thumbAlbum/t3.png"
         }
     ]
 
