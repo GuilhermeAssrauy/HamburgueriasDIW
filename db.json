@@ -6,7 +6,7 @@
             "descricao": "O simples da melhor forma!\nArtesanal de verdade com sabor defumado inesquecível!",
             "localizacao": "Av. Aggeo Pio Sobrinho, 374 - loja 23 - Buritis, Belo Horizonte - MG, 30575-834",
             "data": "20/12/2023",
-            "imagem": "assets/img/album1/capa.png"
+            "imagem": "assets/img/album0/capa.png"
         },
         {
             "id": 1,
@@ -14,7 +14,7 @@
             "descricao": "Comida, bebida e atendimento de qualidade!",
             "localizacao": "Rua - Alameda dos Sabiás, 172 - Cabral, Contagem - MG, 32146-024",
             "data": "20/12/2023",
-            "imagem": "assets/img/album0/capa.png"
+            "imagem": "assets/img/album1/capa.png"
         },
         {
             "id": 2,
