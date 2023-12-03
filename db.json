@@ -36,18 +36,36 @@
         {
             "id": 1,
             "titulo": "Django",
-            "descricao": "Django",
+            "descricao": "Atendimento de qualidade!",
             "imagem": "assets/img/thumbAlbum/t1.png",
             "idAlbum": 1
         },
         {
             "id": 2,
-            "descricao": "O Burguin",
+            "titulo": "O Burguin",
+            "descricao": "O melhor smash da cidade!",
             "imagem": "assets/img/thumbAlbum/t2.png",
             "idAlbum": 2
         }
     ],
-    "destaques": [
+    "detaques": [
+        {
+            "album": 0,
+            "destaque": 0,
+            "texto": "Meatz"
+        },
+        {
+            "album": 1,
+            "destaque": 0,
+            "texto": "Django"
+        },
+        {
+            "album": 2,
+            "destaque": 0,
+            "texto": "O Burguin"
+        }
+    ],
+    "galerias": [
         {
             "album": 0,
             "destaque": 0,
