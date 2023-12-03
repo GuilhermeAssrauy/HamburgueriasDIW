@@ -1,0 +1,98 @@
+{
+    "albuns":[
+        {
+            "id": 0,
+            "titulo": "Meatz",
+            "descricao": "O simples da melhor forma!\nArtesanal de verdade com sabor defumado inesquecível!",
+            "localizacao": "Av. Aggeo Pio Sobrinho, 374 - loja 23 - Buritis, Belo Horizonte - MG, 30575-834",
+            "data": "20/12/2023",
+            "imagem": "assets/img/album1/capa.png"
+        },
+        {
+            "id": 1,
+            "titulo": "Django",
+            "descricao": "Comida, bebida e atendimento de qualidade!",
+            "localizacao": "Rua - Alameda dos Sabiás, 172 - Cabral, Contagem - MG, 32146-024",
+            "data": "20/12/2023",
+            "imagem": "assets/img/album0/capa.png"
+        },
+        {
+            "id": 2,
+            "titulo": "O Burguin",
+            "descricao": "O melhor smash da cidade!",
+            "localizacao": "R. Turfa, 514 - Prado, Belo Horizonte - MG, 30411-120",
+            "data": "20/12/2023",
+            "imagem": "assets/img/album2/capa.png"
+        }
+    ],
+    "fotos":[
+        {
+           "id": 0,
+           "titulo": "Meatz",
+           "descricao": "O simples da melhor forma!",
+           "imagem": "assets/img/thumbAlbum/t0.png",
+           "idAlbum": 0
+        },
+        {
+            "id": 1,
+            "titulo": "Django",
+            "descricao": "Django",
+            "imagem": "assets/img/thumbAlbum/t1.png",
+            "idAlbum": 1
+        },
+        {
+            "id": 2,
+            "descricao": "O Burguin",
+            "imagem": "assets/img/thumbAlbum/t2.png",
+            "idAlbum": 2
+         }
+    ],
+    "destaques":[
+        {
+            "album": 0,
+            "destaque": 0,
+            "descricao": "Cardápio"
+        },
+        {
+            "album": 0,
+            "destaque": 1,
+            "descricao": "Combos"
+        },
+        {
+            "album": 0,
+            "destaque": 2,
+            "descricao": "Acompanhamentos"
+        },
+        {
+            "album": 1,
+            "destaque": 0,
+            "descricao": "Cardápio"
+        },
+        {
+            "album": 1,
+            "destaque": 1,
+            "descricao": "Combos"
+        },
+        {
+            "album": 1,
+            "destaque": 2,
+            "descricao": "Acompanhamentos"
+        },
+        {
+            "album": 2,
+            "destaque": 0,
+            "descricao": "Cardápio"
+        },
+        {
+            "album": 2,
+            "destaque": 1,
+            "descricao": "Combos"
+        },
+        {
+            "album": 2,
+            "destaque": 2,
+            "descricao": "Acompanhamentos"
+        }
+    ]
+
+}
