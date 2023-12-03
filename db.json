@@ -56,12 +56,12 @@
         },
         {
             "album": 1,
-            "destaque": 0,
+            "destaque": 1,
             "texto": "Django"
         },
         {
             "album": 2,
-            "destaque": 0,
+            "destaque": 1,
             "texto": "O Burguin"
         }
     ],
