@@ -1,5 +1,5 @@
 {
-    "albuns":[
+    "albuns": [
         {
             "id": 0,
             "titulo": "Meatz",
@@ -25,13 +25,13 @@
             "imagem": "assets/img/album2/capa.png"
         }
     ],
-    "fotos":[
+    "fotos": [
         {
-           "id": 0,
-           "titulo": "Meatz",
-           "descricao": "O simples da melhor forma!",
-           "imagem": "assets/img/thumbAlbum/t0.png",
-           "idAlbum": 0
+            "id": 0,
+            "titulo": "Meatz",
+            "descricao": "O simples da melhor forma!",
+            "imagem": "assets/img/thumbAlbum/t0.png",
+            "idAlbum": 0
         },
         {
             "id": 1,
@@ -45,9 +45,9 @@
             "descricao": "O Burguin",
             "imagem": "assets/img/thumbAlbum/t2.png",
             "idAlbum": 2
-         }
+        }
     ],
-    "destaques":[
+    "destaques": [
         {
             "album": 0,
             "destaque": 0,
@@ -102,6 +102,43 @@
             "descricao": "Acompanhamentos",
             "capa": "assets/img/album2/thumbAlbum/t3.png"
         }
+    ],
+    "hamburguerias": [
+        {
+            "id": 0,
+            "descricao": "Meatz",
+            "endereco": "Av. Aggeo Pio Sobrinho, 374",
+            "cidade": "Belo Horizonte",
+            "latlong": [
+                -43.9776368,
+                -19.9764296
+            ],
+            "url": "https://meatzburger.com/unidades/mg-buritis/",
+            "cor": "red"
+        },
+        {
+            "id": 1,
+            "descricao": "Django",
+            "endereco": "Rua Alameda dos Sabiás - Cabral",
+            "cidade": "Contagem",
+            "latlong": [
+                -44.0400965,
+                -19.8818016
+            ],
+            "url": "https://www.instagram.com/djangohamburgueria/",
+            "cor": "red"
+        },
+        {
+            "id": 2,
+            "descricao": "O Burguin",
+            "endereco": "Rua Turfa, 514 - Prado",
+            "cidade": "Belo Horizonte",
+            "latlong": [
+                -43.9676219,
+                -19.9267279
+            ],
+            "url": "https://www.pucminas.br/unidade/barreiro/Paginas/default.aspx",
+            "cor": "red"
+        }
     ]
-
 }
