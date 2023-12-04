@@ -48,21 +48,24 @@
             "idAlbum": 2
         }
     ],
-    "detaques": [
+    "destaques": [
         {
             "album": 0,
             "destaque": 0,
-            "texto": "Meatz"
+            "texto": "Meatz",
+            "imagem": "assets/img/firstSlide.jpg"
         },
         {
             "album": 1,
             "destaque": 1,
-            "texto": "Django"
+            "texto": "Django",
+            "imagem": "assets/img/secondSlide.jpg"
         },
         {
             "album": 2,
             "destaque": 1,
-            "texto": "O Burguin"
+            "texto": "O Burguin",
+            "imagem": "assets/img/thirdSlide.jpg"
         }
     ],
     "galerias": [
